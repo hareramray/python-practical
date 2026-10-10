@@ -1,0 +1,295 @@
+{
+  "notebooks": [
+    {
+      "notebook": "notebooks/00_start_here.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.87
+    },
+    {
+      "notebook": "notebooks/01_variables_and_numbers.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.87
+    },
+    {
+      "notebook": "notebooks/02_strings_and_text.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.87
+    },
+    {
+      "notebook": "notebooks/03_lists_tuples_dicts_sets.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.86
+    },
+    {
+      "notebook": "notebooks/04_conditions_and_loops.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.73
+    },
+    {
+      "notebook": "notebooks/05_functions_and_scope.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.71
+    },
+    {
+      "notebook": "notebooks/06_errors_and_debugging.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.68
+    },
+    {
+      "notebook": "notebooks/07_files_csv_and_json.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.69
+    },
+    {
+      "notebook": "notebooks/08_modules_and_environments.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.71
+    },
+    {
+      "notebook": "notebooks/09_object_oriented_python.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.65
+    },
+    {
+      "notebook": "notebooks/10_testing_and_quality.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.69
+    },
+    {
+      "notebook": "notebooks/11_comprehensions_iterators_generators.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.67
+    },
+    {
+      "notebook": "notebooks/12_decorators_and_context_managers.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.64
+    },
+    {
+      "notebook": "notebooks/13_types_dataclasses_and_protocols.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.71
+    },
+    {
+      "notebook": "notebooks/14_standard_library_toolkit.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.64
+    },
+    {
+      "notebook": "notebooks/15_algorithms_and_complexity.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.67
+    },
+    {
+      "notebook": "notebooks/16_sqlite_and_persistence.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.73
+    },
+    {
+      "notebook": "notebooks/17_http_apis_and_json.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.17
+    },
+    {
+      "notebook": "notebooks/18_concurrency_threads_and_async.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.02
+    },
+    {
+      "notebook": "notebooks/19_numpy_numerical_python.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 4.94
+    },
+    {
+      "notebook": "notebooks/20_pandas_data_analysis.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 8.0
+    },
+    {
+      "notebook": "notebooks/21_matplotlib_visualization.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 8.9
+    },
+    {
+      "notebook": "notebooks/22_performance_and_software_design.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.96
+    },
+    {
+      "notebook": "notebooks/23_capstone_expense_tracker.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.09
+    },
+    {
+      "notebook": "solutions/00_start_here_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.62
+    },
+    {
+      "notebook": "solutions/01_variables_and_numbers_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.37
+    },
+    {
+      "notebook": "solutions/02_strings_and_text_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 6.29
+    },
+    {
+      "notebook": "solutions/03_lists_tuples_dicts_sets_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.67
+    },
+    {
+      "notebook": "solutions/04_conditions_and_loops_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.6
+    },
+    {
+      "notebook": "solutions/05_functions_and_scope_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.85
+    },
+    {
+      "notebook": "solutions/06_errors_and_debugging_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.69
+    },
+    {
+      "notebook": "solutions/07_files_csv_and_json_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.75
+    },
+    {
+      "notebook": "solutions/08_modules_and_environments_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 3.52
+    },
+    {
+      "notebook": "solutions/09_object_oriented_python_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.55
+    },
+    {
+      "notebook": "solutions/10_testing_and_quality_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.25
+    },
+    {
+      "notebook": "solutions/11_comprehensions_iterators_generators_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.11
+    },
+    {
+      "notebook": "solutions/12_decorators_and_context_managers_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.11
+    },
+    {
+      "notebook": "solutions/13_types_dataclasses_and_protocols_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.93
+    },
+    {
+      "notebook": "solutions/14_standard_library_toolkit_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.87
+    },
+    {
+      "notebook": "solutions/15_algorithms_and_complexity_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.75
+    },
+    {
+      "notebook": "solutions/16_sqlite_and_persistence_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.72
+    },
+    {
+      "notebook": "solutions/17_http_apis_and_json_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.31
+    },
+    {
+      "notebook": "solutions/18_concurrency_threads_and_async_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.9
+    },
+    {
+      "notebook": "solutions/19_numpy_numerical_python_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.78
+    },
+    {
+      "notebook": "solutions/20_pandas_data_analysis_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 2.58
+    },
+    {
+      "notebook": "solutions/21_matplotlib_visualization_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 4.32
+    },
+    {
+      "notebook": "solutions/22_performance_and_software_design_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.95
+    },
+    {
+      "notebook": "solutions/23_capstone_expense_tracker_solutions.ipynb",
+      "status": "passed",
+      "code_cells": 8,
+      "seconds": 1.89
+    }
+  ],
+  "passed": 48,
+  "failed": 0,
+  "code_cells_executed": 384
+}
